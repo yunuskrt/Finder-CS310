@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "922027102479",
+    "project_id": "finder-cs310-project",
+    "storage_bucket": "finder-cs310-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922027102479:android:eb9d6e06b980d4eeccee7a",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922027102479-t3iv3h8j9kd484ptjdq4uru35l3m8bdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hf4RYtMZmPNxSpsle4s8vhF5CakcS-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922027102479-t3iv3h8j9kd484ptjdq4uru35l3m8bdo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922027102479-h8losfsd2jf6qlaf9o39a80sioak8dsh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
